@@ -1,0 +1,10 @@
+/data/data/com.termux/files/usr/tmp/example/Guess/target/debug/deps/ppv_lite86-69b1ea386782fd3c.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/data/data/com.termux/files/usr/tmp/example/Guess/target/debug/deps/libppv_lite86-69b1ea386782fd3c.rlib: /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/data/data/com.termux/files/usr/tmp/example/Guess/target/debug/deps/ppv_lite86-69b1ea386782fd3c.d: /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs:
