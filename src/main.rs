@@ -6,8 +6,11 @@ mod guess;
 use guess::guess::deck;
 
 fn main() {
-	let cards = deck::generate();
-	println!("{:?}", cards.arr_nums);
+	let mut cards = deck::generate();
+	println!("{}", cards);
+	cards.shuffle(2);
+	println!("{}", cards);
+	println!("{}", cards.reveal());
 }
 
 // vim: noexpandtab
